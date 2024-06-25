@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="AirportDaoTest">
+        <State />
+      </entry>
+      <entry key="addToDB()">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="daoGetAllItems_returnsAllItemsWithNameFromDB()">
+        <State />
+      </entry>
+      <entry key="daoInserttems_returnsIfItemInDB()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
